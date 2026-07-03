@@ -1,0 +1,60 @@
+{
+  "citations": [
+    "[roadtovr.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE1YcmhRblpRVmlyaU5GNXpYSmJBYjlDMkNTWVlKRW1rSnRqRTNDXzNFQ3lzOEFHWWpMZU03c3prVDl0Zzd3VkNKRmFaY1Z3SFhoQnZrUWZIMXg3OE9aejhoWncwRW5uUjQxajBVTFdvUjhCYmszNUpz?oc=5)",
+    "[wired.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFBlcXhkUE5FOGtZcFE2Z2dyNGN1WTNVWFUzOUM5bEUxLUZzcGZvV19JVmhzcVA4alZjWTQ4WDdXc2dTZk1zRThhV0tCVUFrS3FxSGRfQkhncFFoUHBEVVMwU19fVzZwcnZraTVldENwalRkR3hxaThLcnNIR0YyT2M?oc=5)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3ZJN2JhZFFBT05ieXE1ck1uaWEzWlpBWURWNmFTX0xMVV9falNoZ3RwRlNGbmNVNlkyV1huSGFlOEN2WEtCTFpXLTNKd2hWZGdMN1N0c1BKOFFMUzZoajdaaXJuZFM1Wmdhak9sM2Z0eFVNOVdqZElobnVUUXFMOEMzR1dUaktwSGpBNFIzUHJQZXAyOHhj?oc=5)",
+    "[time.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFhpNHE1WklTbnVyR0tGR3c4OG1OdWxfeUJSQVZya1dTWXVzVnNQY3RSay1xQkZwc3hKRjMzblEwOVpiMXVhWHR4ZVJTUXdZRWl6dWQ5UUdxZGd1MDA1RUpMUV9LWTNnRWo1M0dCSlYtUnYyN2lqMFFzUXU2d0lET2wzdC1HeVlxR29BQzh1U1lRS0psREM0NmNsdURURUk?oc=5)"
+  ],
+  "design_plan": "rng=42; hero_lines=2.4; AIDA_pass=true; centered_hero=true; bento_density=grid-auto-flow:dense; competitors_sweep=ok; cache_phrase_visible=3; button_contrast=pass",
+  "generated_at": "2026-07-03T21:47:43.995409+00:00",
+  "headline": "Meta Display AI assistant \u2014 hands\u2011free answers are easy. Real computer work is harder.",
+  "site_brief": {
+    "audience": "people evaluating AI assistants for Meta smart glasses and display-style wearable workflows",
+    "canonical_url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Meta Display AI assistant', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "Meta smart glasses AI assistant",
+      "Meta Display AI assistant",
+      "AI assistant for smart glasses",
+      "wearable AI agent computer use"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "meta-display-ai-assistant",
+    "title": "Meta Display AI assistant",
+    "use_case_intent": "show how Super can become the action layer for hands-free Meta Display workflows beyond simple voice answers"
+  },
+  "summary": "This use\u2011case page shows how Super acts as the action layer for Meta Display and smart\u2011glasses workflows. Instead of stopping at voice answers, Super can operate real computers, reuse a computer-use cache, and support repeated wearable workflows like booking, messaging, and site updates \u2014 with user confirmation at every step."
+}
